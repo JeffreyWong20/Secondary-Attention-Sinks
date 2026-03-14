@@ -1,4 +1,4 @@
-<h1 align="center">Secondary Attention Sinks</h1>
+<h1 align="center">On the Existence and Behavior of Secondary Attention Sinks</h1>
 <p align="center">
 	<a href="https://arxiv.org/abs/2512.22213"><img src="https://img.shields.io/badge/arXiv-2512.22213-B31B1B.svg?logo=arxiv" alt="Arxiv"></a>
 	<a href="https://huggingface.co/papers/2512.22213"><img src="https://img.shields.io/badge/Huggingface-DailyPaper-FFD21E.svg?logo=huggingface" alt="Huggingface Paper"></a>
@@ -25,6 +25,12 @@ Analyze and visualize **secondary attention sinks** in open LLMs by:
 - and running PCA / directional analyses.
 
 This repo contains scripts and notebooks used for sink detection and interpretation experiments.
+
+---
+
+## News
+
+- **[2026]** This paper was accepted to the **ICLR 2026 Workshop on Unifying Concept Representation Learning**.
 
 ---
 
