@@ -1,0 +1,8 @@
+vllm==0.8.4
+torch>=2.0.0
+transformers==4.57.1
+numpy>=1.21.0 
+matplotlib
+pandas
+accelerate
+scikit-learn
