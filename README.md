@@ -2,7 +2,7 @@
 <p align="center">
 	<a href="https://arxiv.org/abs/2512.22213"><img src="https://img.shields.io/badge/arXiv-2512.22213-B31B1B.svg?logo=arxiv" alt="Arxiv"></a>
 	<a href="https://huggingface.co/papers/2512.22213"><img src="https://img.shields.io/badge/Huggingface-DailyPaper-FFD21E.svg?logo=huggingface" alt="Huggingface Paper"></a>
-	<a href="https://github.com/JeffreyWong20/Secondary-Attention-Sinks"><img src="https://img.shields.io/github/stars/JeffreyWong20/Secondary-Attention-Sinks?style=social" alt="GitHub Stars"></a>
+	<a href="https://github.com/JeffreyWong20/Secondary-Attention-Sinks/stargazers"><img src="https://img.shields.io/github/stars/JeffreyWong20/Secondary-Attention-Sinks?logo=github&label=Stars" alt="GitHub Stars"></a>
 	<a href="https://github.com/JeffreyWong20/Secondary-Attention-Sinks/issues"><img src="https://img.shields.io/github/issues/JeffreyWong20/Secondary-Attention-Sinks" alt="GitHub Issues"></a>
   </p>
 
