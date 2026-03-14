@@ -263,6 +263,21 @@ If needed, bypass aliases by passing `--model_path <hf_repo_id>`.
 
 ---
 
+## Citation
+
+If you find this project useful, please cite:
+
+```bibtex
+@article{wong2025existence,
+	title={On the Existence and Behaviour of Secondary Attention Sinks},
+	author={Wong, Jeffrey TH and Zhang, Cheng and Mahon, Louis and Luk, Wayne and Isopoussu, Anton and Zhao, Yiren},
+	journal={arXiv preprint arXiv:2512.22213},
+	year={2025}
+}
+```
+
+---
+
 ## Cleanup
 
 ```bash
